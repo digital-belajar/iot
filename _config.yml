@@ -1,0 +1,10 @@
+title: Digital Belajar - IoT
+description: Repositori pembelajaran mata kuliah pemrograman IoT
+domain: digital-belajar.github.io
+url: http://digital-belajar.github.io/digital-belajar-iot
+github_username: digital-belajar
+
+remote_theme: pages-themes/architect
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
